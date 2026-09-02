@@ -56,13 +56,6 @@ Everything on screen is computed rather than recorded.
 
 <br>
 
-## Try it first
-
-The same reef runs in a browser, no install required:
-**[invertedworld.itch.io/beneath-the-waves](https://invertedworld.itch.io/beneath-the-waves)**
-
-<br>
-
 ## Uninstall
 
 ```
