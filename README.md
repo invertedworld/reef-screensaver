@@ -10,9 +10,9 @@ sessions are the same reef.
 
 ## Install
 
-Download **`Reef-1.0.pkg`** from
-[Releases](https://github.com/invertedworld/reef-screensaver/releases/latest),
-double-click it, and follow the installer.
+Download the installer from
+**[Releases](https://github.com/invertedworld/reef-screensaver/releases/latest)**,
+double-click it, and follow the prompts.
 
 Then open **System Settings → Screen Saver** and choose **Reef**.
 
